@@ -1,0 +1,7 @@
+# Local-only notes and exports
+conversations/
+*.zip
+.DS_Store
+node_modules/
+.env
+.env.*
